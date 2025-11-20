@@ -1,2 +1,2 @@
-groq
-gradio
+cv2
+mediapipe
